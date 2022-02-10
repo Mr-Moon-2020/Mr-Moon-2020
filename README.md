@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Mr-Moon-2020
-- 👀 I’m interested in Python, AI, Deep Learning, Machine Learning
-- 🌱 I’m currently learning CSS and Python
+# Leame / Readme
+- 👋 Hi, I’m (quien soy) @Mr-Moon-2020
+- 👀 I’m interested in (interesado en) Python, AI, Deep Learning, Machine Learning
+- 🌱 I’m currently learning (aprendiendo) CSS and Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : luisluna1@gmail.com
+- 📫 How to reach me (mi correo): luisluna1@gmail.com
 
 <!---
 Mr-Moon-2020/Mr-Moon-2020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
